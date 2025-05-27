@@ -69,3 +69,9 @@ This project was developed as part of a WebGL lab assignment focused on understa
 * The `cuon-matrix-cse160` (or `cuon-matrix.js`) library is used for matrix operations, simplifying the process of applying transformations to the cube.
 * The `RotateControls` class provides basic user interaction for rotating the cube.
 * The provided UV coordinates are specific to the layout of the `dice.png` texture. If a different texture is used, the UV coordinates will need to be adjusted.
+
+## Credits & Acknowledgments
+
+- Developed independently as part of CSE 160: Introduction to Computer Graphics
+- Built on WebGL utility libraries (cuon-matrix-cse160.js, cuon-utils.js, webgl-utils.js, webgl-debug.js)
+- Special thanks to the course instructors for their guidance and feedback
